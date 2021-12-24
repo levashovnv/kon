@@ -38,3 +38,11 @@ error: src refspec main does not match any
 error: failed to push some refs to 'ssh://github.com/levashovnv/kon.git'
 
 
+----------
+
+Fri Dec 24 2021 22:34:53 GMT+0500 (Екатеринбург, стандартное время)
+
+error: src refspec main does not match any
+error: failed to push some refs to 'ssh://github.com/levashovnv/kon.git'
+
+
